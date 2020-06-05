@@ -8,13 +8,19 @@ It contains:
 4. WiFeS makeLC - calculates line fluxes and makes light curves. Modified from original OzDES program by Janie Hoormann (https://github.com/jhoormann/OzDES_makeLC)
 
 In order for these to run, you need:
+
 Reduced WiFeS observations (.p11.fits)
+
 Reduced LCO photometry observations (.csv)
+
 List of source names in .txt file
+
 List of source names and redshifts in .txt file
+
 Filter transmission functions for each filter in a two column format, wavelength (nm) and transmission fraction (range 0-1), in a .dat file
 
-Please contact u6066740@anu.edu.au if you would like further assistance in implementing the WiFeS RM code
+
+Please contact u6066740@anu.edu.au if you would like further assistance or clarification in implementing the WiFeS RM code
 
 ### Please note that the OzDES calibSpec and makeLC pipelines are copyrighted by Janie Hoormann with the following notice:
 
